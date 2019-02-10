@@ -1,1 +1,2 @@
-some works
+some works 
+bugs fix
